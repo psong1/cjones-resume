@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav header {
+    background-image: linear-gradient(rgba(4,15,20,0.7), rgba(4,10,20,0.7)), url("../images/21907858_G.png");
+    color: #fff;
+    min-height: 85vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
